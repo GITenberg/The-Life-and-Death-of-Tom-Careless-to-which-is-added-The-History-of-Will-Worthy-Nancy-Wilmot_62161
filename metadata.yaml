@@ -1,0 +1,28 @@
+_repo: The-Life-and-Death-of-Tom-Careless-to-which-is-added-The-History-of-Will-Worthy-Nancy-Wilmot_62161
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/ebooks/author/49
+description: ''
+gutenberg_issued: '2020-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62161'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Christian poetry'
+- GITenberg
+title: 'The Life and Death of Tom Careless
+
+  to which is added, The History of Will Worthy & Nancy Wilmot'
+url: http://www.gutenberg.org/ebooks/62161
